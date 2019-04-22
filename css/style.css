@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+div{
+    margin: 10px;
+}
+
+h1{
+    color: red;
+    padding: 30px;
+}
+
+button{
+    border-radius: 25%;
+    background: transparent;
+    width: 100px;
+    height: 50px;
+}
+
+input{
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
